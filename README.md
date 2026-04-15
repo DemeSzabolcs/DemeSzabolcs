@@ -1,6 +1,6 @@
 ### 💻 Tech Stack:
 
-<div align="left">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" alt="dotnetcore logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  />
@@ -20,13 +20,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" width="40" alt="unity logo"  />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" width="40" alt="cloudflare logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="nextjs logo"  />
-</div>
+</p>
 
 ### 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemeSzabolcs&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="DemeSzabolcs's GitHub Stats" />
 
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=DemeSzabolcs&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=DemeSzabolcs&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="DemeSzabolcs's GitHub Stats" />
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=DemeSzabolcs&limit=5&theme=dark&combine_all_yearly_contributions=true)
