@@ -1,6 +1,6 @@
 ### 💻 Tech Stack:
 
-<p>
+<div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" alt="dotnetcore logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"  />
@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" width="40" alt="unity logo"  />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" width="40" alt="cloudflare logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="nextjs logo"  />
-</p>
+</div>
 
 ### 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemeSzabolcs&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="DemeSzabolcs's GitHub Stats" />
