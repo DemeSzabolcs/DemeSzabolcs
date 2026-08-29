@@ -96,12 +96,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DemeSzabolcs&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api?username=DemeSzabolcs&show_icons=true&hide_border=true&count_private=true&theme=default" height="165" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-lilac-36.vercel.app/api?username=DemeSzabolcs&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+    <img src="https://github-readme-stats-theta-lilac-36.vercel.app/api?username=DemeSzabolcs&show_icons=true&hide_border=true&count_private=true&theme=default" height="165" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DemeSzabolcs&layout=compact&hide_border=true&count_private=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemeSzabolcs&layout=compact&hide_border=true&count_private=true&theme=default" height="165" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-lilac-36.vercel.app/api/top-langs/?username=DemeSzabolcs&layout=compact&hide_border=true&count_private=true&theme=tokyonight" />
+    <img src="https://github-readme-stats-theta-lilac-36.vercel.app/api/top-langs/?username=DemeSzabolcs&layout=compact&hide_border=true&count_private=true&theme=default" height="165" alt="Top languages" />
   </picture>
 </div>
 
